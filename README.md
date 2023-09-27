@@ -1,2 +1,1 @@
-# responsive-grid-design
-SI 339 Deliverable 10
+# Responsive Grid
